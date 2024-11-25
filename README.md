@@ -64,7 +64,7 @@ Buttons: For triggering text extraction, text-to-speech, and scene description.
 
 Sidebar Features: Highlights the app’s capabilities.
 
-** Accessibility-Centric Design:**
+**Accessibility-Centric Design:**
 
 Designed specifically for visually impaired users with clear functionalities:
 
